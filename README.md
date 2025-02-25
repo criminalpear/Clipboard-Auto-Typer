@@ -4,11 +4,15 @@ Clipboard-Auto-Typer is a Autohotkey script that automatically types whatever yo
 
 # SCRIPT EXPLANATION
 #NoEnv  ; Improves performance and compatibility.
+
 SendMode Event  ; Uses SendEvent mode to use key delays.
+
 SetKeyDelay, 75  ; Sets a 75ms delay between each keystroke (adjust for how fast you want it to type your text. Max speed is 0.01ms).
 
 F1::  ; Uses F1 to type the clipboard content (you are able to change the hotkey if you want).
-    Send {Raw}%clipboard%  ; Sends the clipboard content as raw text.
+
+Send {Raw}%clipboard%  ; Sends the clipboard content as raw text.
+
 return
 
 
