@@ -17,7 +17,7 @@ return
 
 
 # HOW TO DOWNLOAD
-Click onto the file named "clipboard.ahk" you should see the script. Once you get there click CTRL+SHIFT+S to download it. Once its downloaded double click on the file to run it.
+Either (Harder Option) Click onto the file named "clipboard.ahk" you should see the script. Once you get there click CTRL+SHIFT+S to download it. Or (Simpler Opyion) click on "Releases", then click on clipboard.ahk.
 
 
 # TEST IT
