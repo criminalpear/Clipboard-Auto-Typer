@@ -26,4 +26,5 @@ Run the file by double clicking on it. Go to a new tab, copy anything, click F1.
 
 
 # ISSUES?
-If something is not working right contact me at (nowhere for now)
+If something is not working right first make sure you are using the correct version of AutoHotKey (Version 1.1.37.02)
+If that still doesn't work contact me at (nowhere for now)
