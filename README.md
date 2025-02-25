@@ -21,7 +21,7 @@ Click onto the file named "clipboard.ahk" you should see the script. Once you ge
 
 
 # TEST IT
-Go to a new tab, copy anything, click F1.
+Run the file by double clicking on it. Go to a new tab, copy anything, click F1.
 
 
 # ISSUES?
