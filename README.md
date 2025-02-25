@@ -1,1 +1,1 @@
-# Clipboard-Auto-Typer
+# Clipboard-Auto-Typer is a Autohotkey script to automatically type whatever you want as long as it's saved to your clipboard or copied. After you copy the text you want to type you click F1 to initiate the auto typing.
